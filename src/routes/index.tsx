@@ -160,7 +160,7 @@ function Index() {
           <div className="mt-10 grid gap-8 md:grid-cols-2">
             <Reveal className="space-y-4 text-lg leading-relaxed text-muted-foreground">
               <p>Dr. Shoaib H Khan is a dedicated pediatric consultant specialising in <strong className="text-foreground">Pediatrics, Newborn Care and Child Development</strong>, caring for children from birth up to 18 years.</p>
-              <p>He completed advanced training in <strong className="text-foreground">newborn &amp; child respiratory complications</strong> and <strong className="text-foreground">child nutrition</strong> at South Apollo Medical College Hospital, Barishal.</p>
+              <p>He completed advanced training in <strong className="text-foreground">newborn &amp; child respiratory complications</strong> and <strong className="text-foreground">child nutrition</strong> from a renowned medical institution</p>
             </Reveal>
             <div className="grid gap-4 sm:grid-cols-3 md:grid-cols-1 lg:grid-cols-3">
               {[
